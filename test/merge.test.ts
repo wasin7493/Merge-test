@@ -1,5 +1,5 @@
 // merge.test.ts
-import { merge } from './merge';
+import { merge } from '../src/merge';
 
 describe('merge', () => {
   it('should merge two sorted collections', () => {
